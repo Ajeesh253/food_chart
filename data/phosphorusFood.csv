@@ -1,0 +1,235 @@
+Id,FoodName,servingSize,phosphorusMg,phosphorusCategory,foodSubCategory,foodCategory
+1,Mixed,1 oz,132,Medium,Nuts,Protein
+2,Peanuts,28 nuts,101,Medium,Nuts,Protein
+3,Pistachios,1 oz,137,Medium,Nuts,Protein
+4,Clams (raw),3 oz,144,Medium,Seafood,Protein
+5,Crab,3 oz,175,Medium,Seafood,Protein
+6,Lobster,3 oz,157,Medium,Seafood,Protein
+7,Oysters,3 oz,172,Medium,Seafood,Protein
+8,Scallops,3 oz,186,Medium,Seafood,Protein
+9,Shrimp,3 oz,116,Medium,Seafood,Protein
+10,"Tuna (light, in water)",3 oz,139,Medium,Seafood,Protein
+11,Refried beans ,½ cup,400,High,"Beans, canned",Protein
+12,Soybeans,½ cup,206,High,"Beans, canned",Protein
+13,Beef (bottom round),3 oz,217,High,Meat,Protein
+14,Liver (beef),3 oz,392,High,Meat,Protein
+15,Pork (loin),3 oz,200,High,Meat,Protein
+16,Veal,3 oz,200,High,Meat,Protein
+17,Catfish,3 oz,208,High,Seafood,Protein
+18,Cod,3 oz,200,High,Seafood,Protein
+19,Haddock,3 oz,205,High,Seafood,Protein
+20,Sardines w/ bone,3 oz,420,High,Seafood,Protein
+21,Salmon (canned w/ bone),3 oz,280,High,Seafood,Protein
+22,"Salmon (fresh, cooked)",3 oz,235,High,Seafood,Protein
+23,"Tuna (light, in oil)",3 oz,265,High,Seafood,Protein
+24,"Tuna (fresh, cooked)",3 oz,208,High,Seafood,Protein
+25,Blackeyed peas,½ cup,84,Low,"Beans, canned",Protein
+26,Roast beef,½ cup,150,Low,Meat,Protein
+27,Brazilnut,1 nut,36,Low,Nuts,Protein
+28,Macadamia,10-12 nuts,56,Low,Nuts,Protein
+29,Pecans,20 halves,79,Low,Nuts,Protein
+30,Walnuts,14 halves,98,Low,Nuts,Protein
+31,Baked,½ cup,132,Medium,"Beans, canned",Protein
+32,Black,½ cup,120,Medium,"Beans, canned",Protein
+33,Garbanzo/chickpeas,½ cup,108,Medium,"Beans, canned",Protein
+34,Kidney,½ cup,115,Medium,"Beans, canned",Protein
+35,Lentils,½ cup,178,Medium,"Beans, canned",Protein
+36,Lima,½ cup,100,Medium,"Beans, canned",Protein
+37,Navy,½ cup,176,Medium,"Beans, canned",Protein
+38,Northern,½ cup,178,Medium,"Beans, canned",Protein
+39,Pinto,½ cup,111,Medium,"Beans, canned",Protein
+40,"Beef (80% lean, ground)",3 oz,165,Medium,Meat,Protein
+41,Chicken (white),3 oz,180,Medium,Meat,Protein
+42,Chicken (dark),3 oz,157,Medium,Meat,Protein
+43,Duck (domestic),3 oz,173,Medium,Meat,Protein
+44,Lamb (leg),3 oz,162,Medium,Meat,Protein
+45,Turkey (white),3 oz,184,Medium,Meat,Protein
+46,Turkey (dark),3 oz,171,Medium,Meat,Protein
+47,Almonds,24 nuts,134,Medium,Nuts,Protein
+48,Cashews,18 nuts,151,Medium,Nuts,Protein
+49,Buttermilk,½ cup,109,Medium,Milk,Milk and Diary
+50,Chocolate low fat,½ cup,128,Medium,Milk,Milk and Diary
+51,Eggnog,½ cup,139,Medium,Milk,Milk and Diary
+52,"Milk, 1%",½ cup,116,Medium,Milk,Milk and Diary
+53,"Milk, skim (0% milk fat)",½ cup,124,Medium,Milk,Milk and Diary
+54,"Milk, whole",½ cup,113.5,Medium,Milk,Milk and Diary
+55,Yogurt (skim/plain/Greek style),½ cup,178,Medium,Yogurt,Milk and Diary
+56,Yogurt (whole/4 gm protein),½ cup,108,Medium,Yogurt,Milk and Diary
+57,Yogurt (with fruit/5gm protein),½ cup,135,Medium,Yogurt,Milk and Diary
+58,American,1 oz,211,High,Cheese,Milk and Diary
+59,"Ricotta, part skim",½ cup,225,High,Cheese,Milk and Diary
+60,Evaporated nonfat,½ cup,250,High,Milk,Milk and Diary
+61,Butter/Margarine,1 tbsp,3,Low,Butter,Milk and Diary
+62,Cream cheese,1 tbsp,15,Low,Cheese,Milk and Diary
+63,Feta,1 oz,94,Low,Cheese,Milk and Diary
+64,Parmesan,2 tbsp,80,Low,Cheese,Milk and Diary
+65,Half & half cream,1 tbsp,14,Low,Cream,Milk and Diary
+66,Sour cream,1 tbsp,10,Low,Cream,Milk and Diary
+67,Egg,1 medium,90,Low,Eggs,Milk and Diary
+68,Egg substitute,¼ cup,76,Low,Eggs,Milk and Diary
+69,Ice cream (vanilla),½ cup,69,Low,Ice cream,Milk and Diary
+70,Rice milk (unenriched),½ cup,17,Low,Milk,Milk and Diary
+71,Soy milk (unenriched),½ cup,60,Low,Milk,Milk and Diary
+72,Sherbet,½ cup,38,Low,Sherbet,Milk and Diary
+73,Blue,1 oz,110,Medium,Cheese,Milk and Diary
+74,Cheddar,1 oz,145,Medium,Cheese,Milk and Diary
+75,Cottage (1% milkfat),1 oz,151,Medium,Cheese,Milk and Diary
+76,Cottage (2% milkfat),1 oz,170,Medium,Cheese,Milk and Diary
+77,Mozzarella,1 oz,149,Medium,Cheese,Milk and Diary
+78,Swiss,1 oz,172,Medium,Cheese,Milk and Diary
+79,Ice Milk (soft serve),½ cup,106,Medium,Ice cream,Milk and Diary
+80,Apple,1 cup,17,Low,Juices,Fruit and Fruit Juices
+81,Cranberry,½ cup,3,Low,Juices,Fruit and Fruit Juices
+82,Grape,½ cup,5,Low,Juices,Fruit and Fruit Juices
+83,Grapefruit,½ cup,14,Low,Juices,Fruit and Fruit Juices
+84,Orange,½ cup,20,Low,Juices,Fruit and Fruit Juices
+85,Pineapple,½ cup,10,Low,Juices,Fruit and Fruit Juices
+86,Prune juice,½ cup,32,Low,Juices,Fruit and Fruit Juices
+87,Apple,1 medium,10,Low,Fruits,Fruit and Fruit Juices
+88,Applesauce,½ cup,9,Low,Fruits,Fruit and Fruit Juices
+89,Apricot,1 medium,7,Low,Fruits,Fruit and Fruit Juices
+90,Banana,1 medium,24,Low,Fruits,Fruit and Fruit Juices
+91,Blueberries,½ cup,8,Low,Fruits,Fruit and Fruit Juices
+92,Cantaloupe,⅛ melon,12,Low,Fruits,Fruit and Fruit Juices
+93,"Cherries, red, sweet",10 cherries,13,Low,Fruits,Fruit and Fruit Juices
+94,"Cranberries, fresh",½ cup,7,Low,Fruits,Fruit and Fruit Juices
+95,Cranberry sauce,1 slice,3,Low,Fruits,Fruit and Fruit Juices
+96,"Figs, dried",2 figs,26,Low,Fruits,Fruit and Fruit Juices
+97,Grapes,½ cup,11,Low,Fruits,Fruit and Fruit Juices
+98,Grapefruit,½ fruit,11,Low,Fruits,Fruit and Fruit Juices
+99,Honeydew,⅛ melon,16,Low,Fruits,Fruit and Fruit Juices
+100,Kiwi,1 medium,30,Low,Fruits,Fruit and Fruit Juices
+101,Mango,1 medium,23,Low,Fruits,Fruit and Fruit Juices
+102,Nectarines,1 medium,22,Low,Fruits,Fruit and Fruit Juices
+103,Orange,1 medium,18,Low,Fruits,Fruit and Fruit Juices
+104,Peach,1 medium,12,Low,Fruits,Fruit and Fruit Juices
+105,Pears,1 medium,18,Low,Fruits,Fruit and Fruit Juices
+106,Pineapple,½ cup,6,Low,Fruits,Fruit and Fruit Juices
+107,Plums,1 medium,7,Low,Fruits,Fruit and Fruit Juices
+108,"Prunes, dried",5 prunes,33,Low,Fruits,Fruit and Fruit Juices
+109,Raisins,½ cup,71,Low,Fruits,Fruit and Fruit Juices
+110,Raspberries,½ cup,8,Low,Fruits,Fruit and Fruit Juices
+111,Rhubarb,½ cup,9,Low,Fruits,Fruit and Fruit Juices
+112,Strawberries,½ cup,16,Low,Fruits,Fruit and Fruit Juices
+113,Tangerines (mandarin),1 medium,8,Low,Fruits,Fruit and Fruit Juices
+114,Watermelon,1 cup,14,Low,Fruits,Fruit and Fruit Juices
+115,Artichoke,1 medium,103,Medium,Vegetables,Vegetables
+116,Avocado,1 medium,105,Medium,Vegetables,Vegetables
+117,Baked,1 medium,141,Medium,Potatoes,Vegetables
+118,Boil/mash,½ cup,101,Medium,Potatoes,Vegetables
+119,Asparagus,4 spears,32,Low,Vegetables,Vegetables
+120,"Beans, green/yellow snap",½ cup,21,Low,Vegetables,Vegetables
+121,Beets (canned),½ cup,33,Low,Vegetables,Vegetables
+122,Broccoli,½ cup,29,Low,Vegetables,Vegetables
+123,Cabbage (green or red),½ cup,8,Low,Vegetables,Vegetables
+124,Carrots,½ cup,24,Low,Vegetables,Vegetables
+125,Cauliflower,½ cup,22,Low,Vegetables,Vegetables
+126,Celery,½ cup,15,Low,Vegetables,Vegetables
+127,"Corn, kernel",½ cup,69,Low,Vegetables,Vegetables
+128,"Corn, creamed in can",½ cup,66,Low,Vegetables,Vegetables
+129,Cucumber (without skin),½ cup,11,Low,Vegetables,Vegetables
+130,Lettuce,½ cup,7,Low,Vegetables,Vegetables
+131,Mushrooms (raw),½ cup,37,Low,Vegetables,Vegetables
+132,Okra,½ cup,32,Low,Vegetables,Vegetables
+133,Onions,½ cup,27,Low,Vegetables,Vegetables
+134,Parsnips,½ cup,47,Low,Vegetables,Vegetables
+135,Peas (green),½ cup,57,Low,Vegetables,Vegetables
+136,"Peppers, red or green",1 medium,23,Low,Vegetables,Vegetables
+137,"Pickle, dill",1 pickle,14,Low,Vegetables,Vegetables
+138,"Rutabaga, boil/mash",½ cup,67,Low,Vegetables,Vegetables
+139,Spinach (cooked),½ cup,50,Low,Vegetables,Vegetables
+140,Spinach (raw),½ cup,8,Low,Vegetables,Vegetables
+141,"Squash, summer/winter",1 cup,45,Low,Vegetables,Vegetables
+142,Tomato,1 medium,30,Low,Vegetables,Vegetables
+143,Baked sweet,1 medium,97,Low,Potatoes,Vegetables
+144,Tomato juice,½ cup,23,Low,Juices,Vegetables
+145,Cheerios,1 cup,100,Medium,Cereal,Grains and Starches
+146,Cream of wheat,1 cup,100,Medium,Cereal,Grains and Starches
+147,Farina,1 cup,28,Medium,Cereal,Grains and Starches
+148,Granola,½ cup,175,Medium,Cereal,Grains and Starches
+149,Oatmeal,1 cup,178,Medium,Cereal,Grains and Starches
+150,Shredded wheat,2 biscuits,168,Medium,Cereal,Grains and Starches
+151,Cornbread,"2""x2""",110,Medium,Grains,Grains and Starches
+152,Fry bread,"5"" bread",141,Medium,Grains,Grains and Starches
+153,"Pancakes, plain",1 frozen,134,Medium,Grains,Grains and Starches
+154,Corn muffin,1 medium,192,Medium,Muffin,Grains and Starches
+155,All Bran,½ cup,339,High,Cereal,Grains and Starches
+156,Bran flakes,1 cup,209,High,Cereal,Grains and Starches
+157,Raisin Bran,1 cup,259,High,Cereal,Grains and Starches
+158,Blueberry,1 medium,222,High,Muffin,Grains and Starches
+159,Oat bran,1 medium,424,High,Muffin,Grains and Starches
+160,7 grain,1 slice,46,Low,Bread,Grains and Starches
+161,Pumpernickel,1 slice,57,Low,Bread,Grains and Starches
+162,Rye,1 slice,40,Low,Bread,Grains and Starches
+163,White,1 slice,24,Low,Bread,Grains and Starches
+164,"White, no frosting","2""x2""",69,Low,Cake,Grains and Starches
+165,Cornflakes,1 cup,14,Low,Cereal,Grains and Starches
+166,Rice Krispies,1 cup,37,Low,Cereal,Grains and Starches
+167,Malt o meal,1 cup,24,Low,Cereal,Grains and Starches
+168,Graham,4 crackers,29,Low,Crackers,Grains and Starches
+169,Saltines,4 crackers,13,Low,Crackers,Grains and Starches
+170,Whole-wheat,4 crackers,47,Low,Crackers,Grains and Starches
+171,Bagel,"3 ½""",60,Low,Grains,Grains and Starches
+172,"Biscuit, round","2 ½""",98,Low,Grains,Grains and Starches
+173,Croissant,1,60,Low,Grains,Grains and Starches
+174,English muffin,1,76,Low,Grains,Grains and Starches
+175,Hamburger/hot dog bun,1 bun,38,Low,Grains,Grains and Starches
+176,Brown rice,½ cup,81,Low,Starches,Grains and Starches
+177,Egg noodles,½ cup,55,Low,Starches,Grains and Starches
+178,Spaghetti,½ cup,28,Low,Starches,Grains and Starches
+179,White rice,½ cup,37,Low,Starches,Grains and Starches
+180,Cocoa mix (made w/water),1 cup,89,Low,Beverages,"Other (Beverages, sweets, processed foods)"
+181,Coffee/tea,1 cup,5 or less,Low,Beverages,"Other (Beverages, sweets, processed foods)"
+182,Club soda,12 fl oz,0,Low,"Beverages, carbonated","Other (Beverages, sweets, processed foods)"
+183,Pepper-type,12 fl oz,40,Low,"Beverages, carbonated","Other (Beverages, sweets, processed foods)"
+184,Root beer,12 fl oz,0,Low,"Beverages, carbonated","Other (Beverages, sweets, processed foods)"
+185,"Cheese sauce, canned",¼ cup,99,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+186,"Gravy, beef/chicken",¼ cup,17,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+187,Honey,1 tbsp,1,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+188,Jelly/jam,1 tbsp,1,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+189,Mustard,1 packet,5 or less,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+190,Ketchup,1 packet,5 or less,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+191,"Oil, any kind any amount",1 tbsp,0,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+192,Salad dressings,1 tbsp,5 or less,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+193,"Syrup, corn",2 tbsp,0,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+194,"Syrup, maple",2 tbsp,0.8,Low,Condiments,"Other (Beverages, sweets, processed foods)"
+195,Bologna,2 slices,52,Low,Deli,"Other (Beverages, sweets, processed foods)"
+196,Potato salad,½ cup,75,Low,Deli,"Other (Beverages, sweets, processed foods)"
+197,Salami,2 slices,65,Low,Deli,"Other (Beverages, sweets, processed foods)"
+198,Doughnut (yeast),1,56,Low,Desserts,"Other (Beverages, sweets, processed foods)"
+199,Gelatin desserts,½ cup,30,Low,Desserts,"Other (Beverages, sweets, processed foods)"
+200,Pastry (fruit danish),1,63,Low,Desserts,"Other (Beverages, sweets, processed foods)"
+201,"Toaster pastries, fruit",1 pastry,58,Low,Desserts,"Other (Beverages, sweets, processed foods)"
+202,Apple,⅛ pie,43,Low,"Pie, homemade","Other (Beverages, sweets, processed foods)"
+203,Cherry,⅛ pie,54,Low,"Pie, homemade","Other (Beverages, sweets, processed foods)"
+204,Lemon meringue,⅛ pie,53,Low,"Pie, homemade","Other (Beverages, sweets, processed foods)"
+205,"Granola bar, plain, soft",1 bar,62,Low,Snacks,"Other (Beverages, sweets, processed foods)"
+206,Popcorn,1 cup,24,Low,Snacks,"Other (Beverages, sweets, processed foods)"
+207,Potato chips,1 oz,45,Low,Snacks,"Other (Beverages, sweets, processed foods)"
+208,Pretzels,10 pretzels,68,Low,Snacks,"Other (Beverages, sweets, processed foods)"
+209,Tortilla chips,1 oz,69,Low,Snacks,"Other (Beverages, sweets, processed foods)"
+210,Beef noodle,1 cup,46,Low,"Soup, canned, ready to eat","Other (Beverages, sweets, processed foods)"
+211,Chicken noodle,1 cup,72,Low,"Soup, canned, ready to eat","Other (Beverages, sweets, processed foods)"
+212,Doughnut,1 medium,126,Medium,Dessert,"Other (Beverages, sweets, processed foods)"
+213,Pumpkin,⅛ pie,152,Medium,Pie,"Other (Beverages, sweets, processed foods)"
+214,Pecan,⅛ pie,115,Medium,Pie,"Other (Beverages, sweets, processed foods)"
+215,Potatoes Au Gratin,½ cup,138,Medium,Potatoes,"Other (Beverages, sweets, processed foods)"
+216,Chicken pot pie,1 small pie,119,Medium,Proteins,"Other (Beverages, sweets, processed foods)"
+217,Chili con carne w/ beans,1 cup,193,Medium,Proteins,"Other (Beverages, sweets, processed foods)"
+218,"Hot dog on bun, beef",1 medium,110,Medium,Proteins,"Other (Beverages, sweets, processed foods)"
+219,Peanut butter,2 tbsp,110,Medium,Proteins,"Other (Beverages, sweets, processed foods)"
+220,"Tofu, firm",¼ block,119,Medium,Proteins,"Other (Beverages, sweets, processed foods)"
+221,Bean w/ ham,1 cup,143,Medium,"Soup, canned, ready to eat","Other (Beverages, sweets, processed foods)"
+222,Beef Stew,1 cup,128,Medium,"Soup, canned, ready to eat","Other (Beverages, sweets, processed foods)"
+223,Clam chowder,1 cup,156,Medium,"Soup, canned, ready to eat","Other (Beverages, sweets, processed foods)"
+224,Creamed chicken,1 cup,151,Medium,"Soup, canned, ready to eat","Other (Beverages, sweets, processed foods)"
+225,Tomato,1 cup,149,Medium,"Soup, canned, ready to eat","Other (Beverages, sweets, processed foods)"
+226,Chocolate,½ cup,136,Medium,"Pudding, homemade","Other (Beverages, sweets, processed foods)"
+227,Vanilla,½ cup,116,Medium,"Pudding, homemade","Other (Beverages, sweets, processed foods)"
+228,"Cocoa mix, sugar-free, (made w/milk)",1 cup,255,High,Beverages,"Other (Beverages, sweets, processed foods)"
+229,Mix,1 cup,400,High,*Macaroni & cheese,"Other (Beverages, sweets, processed foods)"
+230,Homemade,1 cup,322,High,*Macaroni & cheese,"Other (Beverages, sweets, processed foods)"
+231,"Cheeseburger, plain",1,312,High,Meat,"Other (Beverages, sweets, processed foods)"
+232,Chocolate,½ cup,350,High,"Pudding, instant","Other (Beverages, sweets, processed foods)"
+233,Vanilla,½ cup,279,High,"Pudding, instant","Other (Beverages, sweets, processed foods)"
+234,Trail mix,½ cup,282,High,Snacks,"Other (Beverages, sweets, processed foods)"
